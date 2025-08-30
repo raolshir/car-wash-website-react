@@ -51,19 +51,19 @@ export const tokenPrices = [
   {
     id: "tokenPrices-1",
     content:
-      "20 tokens for a basic wash.",
+      "Buy 20 tokens",
     name: "$5 per token",
   },
   {
     id: "tokenPrices-2",
     content:
-      "more than 35 tokens for a basic wash.",
+      "Buy more than 35 tokens",
     name: "$4.5 per token",
   },
   {
     id: "tokenPrices-3",
     content:
-      "more than 70 tokens for a basic wash.",
+      "Buy more than 70 tokens",
     name: "$4 per token",
   },
 ];
